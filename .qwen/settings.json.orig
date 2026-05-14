@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/home/yuliu/Mastro/**)",
+      "Glob(/home/yuliu/Mastro/**)",
+      "WebFetch"
+    ]
+  },
+  "$version": 4
+}

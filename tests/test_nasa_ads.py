@@ -8,7 +8,7 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 
-from mastro.nasa_ads import (
+from mastro.ads.nasa_ads import (
     EXPORT_FORMATS,
     _PDF_ENDPOINTS,
     ADSClient,

@@ -17,7 +17,8 @@ dependencies = [
 ]
 
 [project.scripts]
-ads = "ai4snrpy.ads_cli:app"
+ads = "mastro.ads.cli:app"
+scihub = "mastro.scihub.cli:app"
 
 [build-system]
 requires = ["hatchling"]

@@ -18,7 +18,6 @@ dependencies = [
 
 [project.scripts]
 ads = "mastro.ads.cli:app"
-scihub = "mastro.scihub.cli:app"
 
 [build-system]
 requires = ["hatchling"]
